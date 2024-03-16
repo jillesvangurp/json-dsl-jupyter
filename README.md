@@ -1,6 +1,6 @@
 # JsonDsl jupyter notebook with some examples
 
-Created to be used as demo material at the March 2024 Kotlin meetup in Berlin.
+Created to be used as demo material at the March 2024 Kotlin meetup in Berlin for my presentatino on [json-dsl](https://github.com/jillesvangurp/json-dsl).
 
 ## Usage
 
