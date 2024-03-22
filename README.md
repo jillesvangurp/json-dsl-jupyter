@@ -22,7 +22,7 @@ conda install -c jetbrains kotlin-jupyter-kernel
 Clone this repository and then in the root directory run:
 
 ```
-kotlin-jupyter
+jupyter notebook
 ```
 
 Your browser should open with a list of notebooks, open the jsdon-dsl examples one.
