@@ -1,6 +1,10 @@
 # JsonDsl jupyter notebook with some examples
 
-Created to be used as demo material at the March 2024 Kotlin meetup in Berlin for my presentatino on [json-dsl](https://github.com/jillesvangurp/json-dsl).
+Created to be used as demo material at the March 2024 Kotlin meetup in Berlin for my presentation on [json-dsl](https://github.com/jillesvangurp/json-dsl).
+
+What's JsonDsl?
+
+> Create Kotlin DSLs for any JSON/YAML. JsonDsl is a library that helps you build Kotlin DSLs for JSON and YAML dialects. The DSLs are easy to extend with custom fields by users via a MutableMap. This allows your DSL users to work around any features you don't have in your DSL.
 
 ## Usage
 
